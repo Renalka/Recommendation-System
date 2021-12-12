@@ -12,9 +12,9 @@ III. User-User Based Collaborative Filtering
 IV. Matrix Factorization 
 
 
-Dependencies:
-Python 3.x
-Pandas
-Numpy
-Matplotlib
+Dependencies:<br>
+Python 3.x <br>
+Pandas<br>
+Numpy<br>
+Matplotlib<br>
 pickle
